@@ -1,0 +1,11 @@
+{
+ "command": [
+
+   "curl",
+
+   "http://node-sample-service:3000"
+
+ ],
+
+ "expected_status": "200",
+}
