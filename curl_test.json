@@ -3,7 +3,7 @@
 
    "curl",
 
-   "http://node-sample-service:3000"
+   "https://echo.free.beeceptor.com"
 
  ],
 
